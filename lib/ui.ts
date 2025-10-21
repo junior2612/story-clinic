@@ -1,0 +1,1 @@
+export const STORY_TYPES=[{key:'venda',label:'Venda de produto/serviço'},{key:'lancamento',label:'Lançamento'},{key:'lifestyle',label:'Life style (dia a dia)'},{key:'desejo',label:'Desejo'},{key:'autoridade',label:'Autoridade'},{key:'prova_social',label:'Prova social'}];

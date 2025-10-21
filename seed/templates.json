@@ -1,0 +1,32 @@
+[
+  {
+    "type_key": "venda",
+    "type_label": "Venda de produto/servi\u00e7o",
+    "structure": "Dor \u2022 Benef\u00edcio \u2022 Diferencial \u2022 Oferta \u2022 CTA"
+  },
+  {
+    "type_key": "lancamento",
+    "type_label": "Lan\u00e7amento",
+    "structure": "Teaser \u2022 O que \u00e9 \u2022 Por que agora \u2022 Oferta \u2022 CTA"
+  },
+  {
+    "type_key": "lifestyle",
+    "type_label": "Life style (dia a dia)",
+    "structure": "Rotina \u2022 Bastidores \u2022 Valor \u2022 CTA leve"
+  },
+  {
+    "type_key": "desejo",
+    "type_label": "Desejo",
+    "structure": "Inspira\u00e7\u00e3o \u2022 Benef\u00edcios est\u00e9ticos \u2022 Como come\u00e7ar \u2022 CTA"
+  },
+  {
+    "type_key": "autoridade",
+    "type_label": "Autoridade",
+    "structure": "Cr\u00e9dito profissional \u2022 Evid\u00eancias \u2022 Dica t\u00e9cnica \u2022 CTA"
+  },
+  {
+    "type_key": "prova_social",
+    "type_label": "Prova social",
+    "structure": "Antes/Depois \u2022 Depoimento \u2022 Resultado \u2022 CTA"
+  }
+]

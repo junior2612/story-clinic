@@ -1,0 +1,1 @@
+<div className='card prose max-w-none'><h1>Sobre o Story Clinic</h1><p>Gerador de sequências de Stories para clínicas de estética.</p><ol><li>Escolha o tipo.</li><li>Gere com IA.</li><li>Copie e publique.</li></ol><h2>Assinatura</h2><p>Acesso via compra na Kiwify (webhook ativa/desativa).</p></div>

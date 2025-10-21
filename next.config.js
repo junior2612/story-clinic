@@ -1,0 +1,1 @@
+/** @type {import('next').NextConfig} */\nmodule.exports={experimental:{serverActions:{allowedOrigins:['*']}},output:'standalone'}\n

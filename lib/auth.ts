@@ -1,0 +1,1 @@
+import { cookies } from 'next/headers';import { supabaseAdmin } from './supabase';export async function currentMember(){const email=(await cookies()).get('sc_email')?.value;if(!email)return null;const sb=supabaseAdmin();const {data}=await sb.from('members').select('*').eq('email',email).eq('active',true).maybeSingle();return data||null;}
