@@ -1,1 +1,19 @@
-<div className='card prose max-w-none'><h1>Sobre o Story Clinic</h1><p>Gerador de sequências de Stories para clínicas de estética.</p><ol><li>Escolha o tipo.</li><li>Gere com IA.</li><li>Copie e publique.</li></ol><h2>Assinatura</h2><p>Acesso via compra na Kiwify (webhook ativa/desativa).</p></div>
+// app/sobre/page.tsx
+
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Sobre",
+  description: "Informações sobre o projeto",
+};
+
+export default function Sobre() {
+  return (
+    <main className="container py-8">
+      <h1 className="text-2xl font-semibold">Sobre</h1>
+      <p className="mt-4">
+        Bem-vindo à página Sobre. Aqui vão as informações da sua clínica/projeto.
+      </p>
+    </main>
+  );
+}
