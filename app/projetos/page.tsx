@@ -1,8 +1,12 @@
-export default function Projetos(){
+"use client";
+
+export default function Projetos() {
   return (
-    <div className="card">
-      <h1 className="text-xl font-semibold mb-2">Meus Projetos</h1>
-      <p className="text-sm opacity-80">Em breve você poderá salvar e organizar sequências aqui. (MVP)</p>
-    </div>
-  )
+    <main className="container py-8">
+      <h1 className="text-2xl font-semibold">Meus Projetos</h1>
+      <p className="mt-4 text-sm text-zinc-700">
+        Aqui ficarão salvos seus projetos e sequências personalizadas.
+      </p>
+    </main>
+  );
 }
